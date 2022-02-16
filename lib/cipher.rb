@@ -1,5 +1,5 @@
 # frozen_string_literal: true
-require 'helpers.rb'
+require_relative 'helpers'
 
 def caesar_cipher(string, n)
   code = rotated_alphabet(n)

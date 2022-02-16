@@ -1,2 +1,40 @@
 # caesar cipher 
-Basic ruby implementation
+
+Basic ruby implementation of the caesar cypher
+
+This runs as a terminal app.
+
+---
+## Installation instructions 
+
+If you don't have bundler installed:
+```
+gem install bundler 
+```
+Download the repository:
+```
+git clone https://github.com/Intimaria/caesar_cipher-ruby.git
+cd caesar_cipher-ruby
+```
+Install gems:
+```
+bundle install
+```
+---
+
+## Usage 
+
+Run the app:
+```
+ruby main.rb
+```
+
+Input your message and the number of letters you want to shift by. 
+Press enter to exit.
+---
+
+# Tests
+To run tests:
+```
+rake test
+```

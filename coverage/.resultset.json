@@ -1,0 +1,26 @@
+{
+  "Minitest": {
+    "coverage": {
+      "/Users/intimaria/Dev/myRUBY/odin/caesar_cipher/lib/cipher.rb": {
+        "lines": [
+          null,
+          null,
+          1,
+          14,
+          14,
+          null,
+          null,
+          1,
+          7,
+          null,
+          null,
+          1,
+          7,
+          224,
+          null
+        ]
+      }
+    },
+    "timestamp": 1645046349
+  }
+}
